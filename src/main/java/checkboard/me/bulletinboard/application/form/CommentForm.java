@@ -1,7 +1,6 @@
-package checkboard.me.bulletinboard.form;
+package checkboard.me.bulletinboard.application.form;
 
 import lombok.Data;
-import org.springframework.format.annotation.DateTimeFormat;
 
 @Data
 public class CommentForm {
